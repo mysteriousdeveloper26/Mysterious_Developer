@@ -77,8 +77,7 @@
 <a href="https://linkedin.com/in/the unknown developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="the unknown developer" height="30" width="40" /></a>
 <a href="https://instagram.com/the.unknown.developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the.unknown.developer" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/theunknowndeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="theunknowndeveloper" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucujo62ddznpkjy_ft0jvhdg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucujo62ddznpkjy_ft0jvhdg" height="30" width="40" /></a>
-</p>
+
 <br>
 <br>
 
