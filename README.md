@@ -70,7 +70,7 @@
 [![TheUnknownDeveloper26's github activity graph](https://activity-graph.herokuapp.com/graph?username=TheUnknownDeveloper26&bg_color=000000&color=1fdbd8&line=ff5c5c&point=1adbce&area=true&hide_border=true)](https://github.com/TheUnknownDeveloper26/github-readme-activity-graph)
 <hr>
 
-<!-- ----------- CONNECT WITH ME SECTION ------------- -->
+<!-- ----------- CONNECT WITH ME SECTION -------------- -->
 
 <p align="center">
 <a href="https://twitter.com/theunknowndev26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="theunknowndev26" height="30" width="40" /></a>
