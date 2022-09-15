@@ -2,7 +2,7 @@
 <!--------- HEAD SECTION------------------>
 <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif">
 
-<!--------- HEAD SECTION END-------------->
+<!-------- HEAD SECTION END-------------->
 ### I'm Unknown Developer
 
   Enthusiastically explore new technologies for efficiency ,   always looking for ways to solve the problem as   efficiently as possible, giving priority simplicity of   code, and rarely talk. 
