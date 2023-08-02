@@ -65,9 +65,10 @@
 <!-- ----------- GITHUB STATS SECTION ------------ -->
 
 
-![](https://github-readme-stats.vercel.app/api?username=TheUnknownDeveloper26&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=TheUnknownDeveloper26&theme=tokyonight&hide_border=false)<br/>
-[![TheUnknownDeveloper26's github activity graph](https://activity-graph.herokuapp.com/graph?username=TheUnknownDeveloper26&bg_color=000000&color=1fdbd8&line=ff5c5c&point=1adbce&area=true&hide_border=true)](https://github.com/TheUnknownDeveloper26/github-readme-activity-graph)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thecodelab26&show_icons=true&locale=en" alt="thecodelab26" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thecodelab26&" alt="thecodelab26" /></p>
+
 <hr>
 
 <!-- ----------- CONNECT WITH ME SECTION -------------- -->
