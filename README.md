@@ -1,6 +1,6 @@
 ## Hey there <img src="https://github.com/dexterousb/dexterousb/blob/main/gifs/Hi.gif" width="27px">
 <!--------- HEAD SECTION------------------>
-<img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif">
+![logo](https://github.com/TheCodeLab26/The-Code-Lab/blob/main/Git.jpg.jpg)
 
 <!-------- HEAD SECTION END-------------->
 ### I'm Mr Unknown Developer
