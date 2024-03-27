@@ -76,9 +76,12 @@
 <!-- ----------- GITHUB STATS SECTION ------------ -->
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thecodelab26&show_icons=true&locale=en" alt="thecodelab26" /></p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mysteriousdeveloper26&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=mysteriousdeveloper26&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mysteriousdeveloper26&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 
 <hr>
 
