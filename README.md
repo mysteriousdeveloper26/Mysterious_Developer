@@ -1,23 +1,35 @@
-## Hey there <img src="https://github.com/dexterousb/dexterousb/blob/main/gifs/Hi.gif" width="27px">
-<!--------- HEAD SECTION------------------>
-![logo](https://github.com/TheCodeLab26/The-Code-Lab/blob/main/Git.jpg.jpg)
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-<!-------- HEAD SECTION END-------------->
-### I'm Mysterious Developer
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mysterious+Developer!;" />
+</h1>
 
-  Enthusiastically explore new technologies for efficiency ,   always looking for ways to solve the problem as   efficiently as possible, giving priority simplicity of   code, and rarely talk. 
+<h3 align="center">A passionate Web Developer from India </h3>
 
-- 🔭 I’m currently working on my Full Stack Projects
-- 🌱 I’m currently learning Data Structure and Algorithms
+<br/>
+
+<div align="center">
+ 
+ 🔭  I’m currently working on my Full Stack Projects
+ 
+  🌱 I’m currently learning Data Structure and Algorithms
+  
 - 👯 I’m looking to collaborate on Ui/Ux and App Development Projects!
-- 🤔 I’m looking for help with Swift
-- 📫 How to reach me:[theunknowndeveloper26@gmail.com](mailto:theunknowndeveloper26@gmail.com) & [Instagram: @the.unknown.developer](https://www.instagram.com/mysterious__developer/)
-- 😄 Pronouns: He/Him
-
-[![](https://visitcount.itsvg.in/api?id=TheUnknownDeveloper26&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-### Programming Languages 🌐
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <!-- <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+<!--   </a> --> 
+</div>
 
 - Know/Using
 
