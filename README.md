@@ -91,19 +91,19 @@
 <br>
 
 </p>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/mysteriousdeveloper26/mysteriousdeveloper26/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 <hr>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/theunknowndev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="theunknowndev" /></a><a href="https://ko-fi.com/theunknowndev"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="theunknowndev" /></a></p><br><br>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/mysteriousdeveloper26/mysterious-developer/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
 
 
 
