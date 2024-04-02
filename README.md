@@ -81,7 +81,7 @@
     </a>
       <a href="https://www.youtube.com/watch?v=JIxRaOQfxAo"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" >
     </a>
-      <a href="https://www.youtube.com/watch?v=JIxRaOQfxAo"><img src="leetcode.svg" width="60" height="50" alt="Leetcode" >
+      <a href="https://youtube.com/@Mysterious__Developer?si=yTBhmi-RWoz3b7s7"><img src="leetcode.svg" width="60" height="50" alt="Leetcode" >
     </a>
    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="60" height="50" alt="youtube logo"  />
        <a href="https://www.youtube.com/watch?v=JIxRaOQfxAo"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" >
