@@ -72,12 +72,22 @@
 
 <!-- ----------- CONNECT WITH ME SECTION -------------- -->
 
-<p align="center">
-<a href="https://twitter.com/theunknowndev26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="theunknowndev26" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mr unknown developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="the unknown developer" height="30" width="40" /></a>
-<a href="[https://instagram.com/mr.unknown.developer](https://www.instagram.com/mr.unknown.developer/?hl=en)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.unknown.developer" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/theunknowndeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="theunknowndeveloper" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCUjo62DDZNPKjy_fT0JVHDg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="theunknowndeveloper" height="30" width="40" /></a>
+<h2 align="center">⚒️ Tools/Technologies ⚒️</h2>
+<br/>
+<div align="center">
+    <a href="https://www.youtube.com/watch?v=JIxRaOQfxAo"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" >
+    </a>
+      <a href="https://www.youtube.com/watch?v=JIxRaOQfxAo"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" >
+    </a>
+      <a href="https://www.youtube.com/watch?v=JIxRaOQfxAo"><img src="https://skillicons.dev/icons?i=leetcode" alt="Leetcode" >
+    </a>
+       <a href="https://www.youtube.com/watch?v=JIxRaOQfxAo"><img src="https://skillicons.dev/icons?i=youtube" alt="Youtube" >
+    </a>
+       <a href="https://www.youtube.com/watch?v=JIxRaOQfxAo"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" >
+    </a>
+
+
+</div>
 <br>
 <br>
 
