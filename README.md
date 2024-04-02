@@ -77,7 +77,7 @@
 <h2 align="center">⚒️ Tools/Technologies ⚒️</h2>
 <br/>
 <div align="center">
-    <a href="https://www.youtube.com/watch?v=JIxRaOQfxAo"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" >
+    <a href="https://https://www.instagram.com/mysterious__developer?igsh=NDdrM29uOHdvc3pq"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" >
     </a>
       <a href="https://www.youtube.com/watch?v=JIxRaOQfxAo"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" >
     </a>
