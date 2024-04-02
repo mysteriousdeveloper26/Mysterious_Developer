@@ -69,7 +69,7 @@
 <hr>
 
 
-![Snake animation](https://raw.githubusercontent.com/{mysteriousdeveloper26}/mysteriousdeveloper26}/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/{mysteriousdeveloper26}/mysteriousdeveloper26}/output/github-contribution-grid-snake-dark.gif)
 
 
 <!-- ----------- CONNECT WITH ME SECTION -------------- -->
