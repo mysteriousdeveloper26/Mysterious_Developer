@@ -101,5 +101,7 @@
 
 
 
+![Snake animation](https://raw.githubusercontent.com/{mysteriousdevelopet26}/{mysteriousdeveloper26}/output/github-contribution-grid-snake-dark.svg)
+
 
 <!-- ------ CONNECT WITH ME SECTION END ----------------- ---!>
