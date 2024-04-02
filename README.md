@@ -66,9 +66,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mysteriousdeveloper26&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mysteriousdeveloper26&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-
 <hr>
+
+
+![Snake animation](https://raw.githubusercontent.com/{mysteriousdeveloper26}/mysteriousdeveloper26}/output/github-contribution-grid-snake-dark.svg)
+
 
 <!-- ----------- CONNECT WITH ME SECTION -------------- -->
 
@@ -100,8 +102,6 @@
 
 
 
-
-![Snake animation](https://raw.githubusercontent.com/{mysteriousdeveloper26}/mysteriousdeveloper26}/output/github-contribution-grid-snake-dark.svg)
 
 
 <!-- ------ CONNECT WITH ME SECTION END ----------------- ---!>
