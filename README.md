@@ -87,9 +87,7 @@
  <a href="https://youtube.com/@Mysterious__Developer?si=77Ra_zvQLIV_BRWL" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="60" height="50" alt="youtube logo"  />
   </a>
-       <a href="https://www.youtube.com/watch?v=JIxRaOQfxAo"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" >
-    </a>
-
+   
 
 </div>
 <br>
