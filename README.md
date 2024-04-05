@@ -74,12 +74,12 @@
 
 <!-- ----------- CONNECT WITH ME SECTION -------------- -->
 
-<h2 align="center">⚒️ Tools/Technologies ⚒️</h2>
+<h2 align="center">⚒️ Socials ⚒️</h2>
 <br/>
 <div align="center">
     <a href="https://www.instagram.com/mysterious__developer/"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" >
     </a>
-      <a href="https://www.youtube.com/watch?v=JIxRaOQfxAo"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" >
+      <a href="https://twitter.com/mysteriousdev2"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" >
     </a>
       <a href="https://leetcode.com/MysteriousDeveloper/"><img src="leetcode.svg" width="60" height="50" alt="Leetcode" >
     </a>
