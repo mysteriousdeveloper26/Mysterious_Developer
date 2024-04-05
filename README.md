@@ -81,7 +81,7 @@
     </a>
       <a href="https://www.youtube.com/watch?v=JIxRaOQfxAo"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" >
     </a>
-      <a href="https://youtube.com/@Mysterious__Developer?si=yTBhmi-RWoz3b7s7"><img src="leetcode.svg" width="60" height="50" alt="Leetcode" >
+      <a href="https://leetcode.com/MysteriousDeveloper/"><img src="leetcode.svg" width="60" height="50" alt="Leetcode" >
     </a>
 
  <a href="https://youtube.com/@Mysterious__Developer?si=77Ra_zvQLIV_BRWL" target="_blank">
