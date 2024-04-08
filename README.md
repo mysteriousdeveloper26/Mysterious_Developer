@@ -77,7 +77,7 @@
 <h2 align="center">⚒️ Socials ⚒️</h2>
 <br/>
 <div align="center">
-    <a href="https://www.instagram.com/mysterious__developer/"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" >
+    <a href="https://www.instagram.com/curious_developer_/"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" >
     </a>
       <a href="https://twitter.com/mysteriousdev2"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" >
     </a>
