@@ -79,7 +79,7 @@
 <div align="center">
     <a href="https://www.instagram.com/curious_developer_/"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" >
     </a>
-      <a href="https://twitter.com/mysteriousdev2"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" >
+      <a href="https://twitter.com/curiousdev26"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" >
     </a>
       <a href="https://leetcode.com/MysteriousDeveloper/"><img src="leetcode.svg" width="60" height="50" alt="Leetcode" >
     </a>
